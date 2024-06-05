@@ -1,0 +1,147 @@
+html {
+    background-color: hsl(0, 0%, 8%);
+    font-family: inter;
+}
+#div-1 {
+    background-color: hsl(0, 0%, 12%);
+    width: 340px;
+    height: 480px;
+    vertical-align: middle;
+    top: 90px;
+    left: 500px;
+    position: relative;
+    border-radius: 3%;
+}
+img {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 40px;
+    left: 120px;
+    border-radius: 50%;
+    
+}
+#p-1 {
+    color: white;
+    top: -245px;
+    left: 590px;
+    position: relative; 
+    font-weight: bold;
+}
+#p-2 {
+    color: hsl(75, 94%, 57%);
+    top: -245px;
+    left: 604px;
+    position: relative;
+    font-size: 15px;
+}
+#p-3 {
+    color: white;
+    top: -245px;
+    left: 526px;
+    position: relative;
+    font-size: 11px;
+    font-weight: 600;
+}
+#div-3 {
+    width: 290px;
+    height: 37px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 6px;
+    top: -245px;
+    left: 526px;
+    position: relative;
+    
+}
+#div-3:hover {
+    background-color: hsl(75, 94%, 57%);
+    color:black;
+}
+#p-4 {
+    text-align: center;
+    color: white;
+    top: 10px;
+    position: relative;
+    right:4px;  
+}
+#a-1 {
+    color: white;
+    text-decoration: none;
+}
+#div-4 {
+    width: 290px;
+    height: 37px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 6px;
+    top: -250px;
+    left: 526px;
+    position: relative;
+}
+#div-4:hover {
+    background-color: hsl(75, 94%, 57%);
+    color:black;
+}
+#p-5 {
+    text-align: center;
+    color: white;
+    top: 10px;
+    position: relative;
+}
+#a-2 {
+     color: white;
+     text-decoration: none;
+}
+#a-3 {
+    color: white;
+    text-decoration: none;
+}
+#div-5 {
+    width: 290px;
+    height: 37px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 6px;
+    top: -250px;
+    left: 526px;
+    position: relative;
+}
+#div-5:hover {
+    background-color: hsl(75, 94%, 57%);
+    color:black;
+}
+#p-6 {
+    text-align: center;
+    color: white;
+    top: 10px;
+    position: relative;
+}
+a {
+display: block;
+padding: 10px; /* Adjust the padding as needed */
+top: -10px;
+position: relative;
+}
+#div-6 {
+    width: 290px;
+    height: 37px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 6px;
+    top: -250px;
+    left: 526px;
+    position: relative;
+}
+#div-6:hover {
+    background-color: hsl(75, 94%, 57%);
+    color:black;
+}
+#p-7 {
+    text-align: center;
+    color: white;
+    top: 10px;
+    position: relative;
+}
+#div-box {
+    vertical-align: middle;
+}
+a {
+    font-weight: bold;
+}
